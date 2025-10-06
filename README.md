@@ -1,4 +1,4 @@
-# 💼 Employee Attrition Analysis  
+<img width="1168" height="743" alt="Screenshot 2025-10-05 220653" src="https://github.com/user-attachments/assets/5a633c39-e480-4bf7-8677-0e7fd1408cc8" /># 💼 Employee Attrition Analysis  
 ### 🧩 Big Data Analytics Project  
 
 This project analyzes **employee attrition** using the **IBM HR Analytics Dataset** to identify key factors that lead to employees leaving an organization.  
@@ -32,14 +32,17 @@ The goal is to uncover patterns behind attrition and provide insights to help HR
 - **Attributes:** Age, Department, JobRole, Salary, OverTime, JobSatisfaction, and more  
 
 ---
+## 🖼️ Visuals of the project
+<img width="523" height="502" alt="Screenshot 2025-10-05 220255" src="https://github.com/user-attachments/assets/0d3fe859-5690-4142-b4bf-dc471c81c6c0" />
+<img width="724" height="489" alt="Screenshot 2025-10-05 220315" src="https://github.com/user-attachments/assets/b602991e-6ef1-44aa-b03e-f2ddcba1950c" />
+<img width="1261" height="686" alt="Screenshot 2025-10-05 220423" src="https://github.com/user-attachments/assets/471dcb6e-7b04-420c-89ef-153a810f877a" />
+<img width="1168" height="743" alt="Screenshot 2025-10-05 220653" src="https://github.com/user-attachments/assets/168921c1-984d-480e-9ae4-efba3c6b7b06" />
+<img width="1141" height="636" alt="Screenshot 2025-10-05 220729" src="https://github.com/user-attachments/assets/c6ce296a-82b2-4391-80bc-391ce193552c" />
+
 
 ## 🚀 Workflow
 
 ![My First Board](https://github.com/user-attachments/assets/8a7b64b4-ec35-4d85-a445-a3f81fd14cc1)
-
----
-## 🖼️ Visuals of the project
-
 ---
 
 ## 📈 Key Insights
