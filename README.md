@@ -41,6 +41,9 @@ The goal is to uncover patterns behind attrition and provide insights to help HR
 4. Visualize results to uncover **insights**  
 
 ---
+## 🖼️ Visuals of the project
+
+---
 
 ## 📈 Key Insights
 
@@ -56,7 +59,3 @@ The goal is to uncover patterns behind attrition and provide insights to help HR
 - Develop an **interactive dashboard** for real-time HR analytics  
 
 ---
-
-### 🧠 Author  
-**Gamya Behara**  
-Big Data Analytics Project | IBM HR Analytics Dataset  
