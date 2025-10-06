@@ -1,4 +1,4 @@
-<img width="1168" height="743" alt="Screenshot 2025-10-05 220653" src="https://github.com/user-attachments/assets/5a633c39-e480-4bf7-8677-0e7fd1408cc8" /># 💼 Employee Attrition Analysis  
+# 💼 Employee Attrition Analysis  
 ### 🧩 Big Data Analytics Project  
 
 This project analyzes **employee attrition** using the **IBM HR Analytics Dataset** to identify key factors that lead to employees leaving an organization.  
