@@ -35,10 +35,7 @@ The goal is to uncover patterns behind attrition and provide insights to help HR
 
 ## 🚀 Workflow
 
-1. Load and explore the dataset in **PySpark**  
-2. Perform **data cleaning** and **feature creation** (e.g., AgeGroup, IncomeBand)  
-3. Analyze **attrition trends** across key factors  
-4. Visualize results to uncover **insights**  
+![My First Board](https://github.com/user-attachments/assets/8a7b64b4-ec35-4d85-a445-a3f81fd14cc1)
 
 ---
 ## 🖼️ Visuals of the project
