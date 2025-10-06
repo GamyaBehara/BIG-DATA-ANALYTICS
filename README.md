@@ -40,10 +40,6 @@ The goal is to uncover patterns behind attrition and provide insights to help HR
 <img width="523" height="502" alt="Screenshot 2025-10-05 220315" src="https://github.com/user-attachments/assets/b602991e-6ef1-44aa-b03e-f2ddcba1950c" />
 <img width="523" height="502" alt="Screenshot 2025-10-05 220423" src="https://github.com/user-attachments/assets/471dcb6e-7b04-420c-89ef-153a810f877a" />
 
-
-## 🚀 Workflow
-
-![My First Board](https://github.com/user-attachments/assets/8a7b64b4-ec35-4d85-a445-a3f81fd14cc1)
 ---
 
 ## 📈 Key Insights
